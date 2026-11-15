@@ -25,6 +25,7 @@ It serves as a collection of problems I've solved while continuously improving m
 ## Array
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ansh-jsr/Leetcode-POTD/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ansh-jsr/Leetcode-POTD/tree/master/3364-minimum-positive-sum-subarray) |
 ## Sliding Window
 |  |
@@ -33,5 +34,14 @@ It serves as a collection of problems I've solved while continuously improving m
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ansh-jsr/Leetcode-POTD/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ansh-jsr/Leetcode-POTD/tree/master/3364-minimum-positive-sum-subarray) |
+## Math
+|  |
+| ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ansh-jsr/Leetcode-POTD/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ansh-jsr/Leetcode-POTD/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
