@@ -44,4 +44,12 @@ It serves as a collection of problems I've solved while continuously improving m
 |  |
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ansh-jsr/Leetcode-POTD/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+## String
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ansh-jsr/Leetcode-POTD/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ansh-jsr/Leetcode-POTD/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
