@@ -44,12 +44,18 @@ It serves as a collection of problems I've solved while continuously improving m
 |  |
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ansh-jsr/Leetcode-POTD/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/ansh-jsr/Leetcode-POTD/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## String
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ansh-jsr/Leetcode-POTD/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/ansh-jsr/Leetcode-POTD/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Simulation
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ansh-jsr/Leetcode-POTD/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/ansh-jsr/Leetcode-POTD/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 <!---LeetCode Topics End-->
