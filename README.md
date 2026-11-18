@@ -50,6 +50,7 @@ It serves as a collection of problems I've solved while continuously improving m
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ansh-jsr/Leetcode-POTD/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/ansh-jsr/Leetcode-POTD/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ansh-jsr/Leetcode-POTD/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Simulation
 |  |
 | ------- |
