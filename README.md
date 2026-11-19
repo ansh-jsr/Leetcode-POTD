@@ -26,6 +26,7 @@ It serves as a collection of problems I've solved while continuously improving m
 |  |
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ansh-jsr/Leetcode-POTD/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ansh-jsr/Leetcode-POTD/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ansh-jsr/Leetcode-POTD/tree/master/3364-minimum-positive-sum-subarray) |
 ## Sliding Window
 |  |
@@ -59,4 +60,12 @@ It serves as a collection of problems I've solved while continuously improving m
 |  |
 | ------- |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/ansh-jsr/Leetcode-POTD/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+## Greedy
+|  |
+| ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ansh-jsr/Leetcode-POTD/tree/master/2567-minimum-score-by-changing-two-elements) |
+## Sorting
+|  |
+| ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ansh-jsr/Leetcode-POTD/tree/master/2567-minimum-score-by-changing-two-elements) |
 <!---LeetCode Topics End-->
