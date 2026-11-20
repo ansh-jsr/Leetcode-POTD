@@ -27,6 +27,7 @@ It serves as a collection of problems I've solved while continuously improving m
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ansh-jsr/Leetcode-POTD/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/ansh-jsr/Leetcode-POTD/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/ansh-jsr/Leetcode-POTD/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ansh-jsr/Leetcode-POTD/tree/master/3364-minimum-positive-sum-subarray) |
 ## Sliding Window
 |  |
@@ -46,6 +47,7 @@ It serves as a collection of problems I've solved while continuously improving m
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ansh-jsr/Leetcode-POTD/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/ansh-jsr/Leetcode-POTD/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/ansh-jsr/Leetcode-POTD/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## String
 |  |
 | ------- |
@@ -68,4 +70,5 @@ It serves as a collection of problems I've solved while continuously improving m
 |  |
 | ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/ansh-jsr/Leetcode-POTD/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/ansh-jsr/Leetcode-POTD/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 <!---LeetCode Topics End-->
