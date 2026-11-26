@@ -46,6 +46,7 @@ It serves as a collection of problems I've solved while continuously improving m
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/ansh-jsr/Leetcode-POTD/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ansh-jsr/Leetcode-POTD/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3360-stone-removal-game](https://github.com/ansh-jsr/Leetcode-POTD/tree/master/3360-stone-removal-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -63,6 +64,7 @@ It serves as a collection of problems I've solved while continuously improving m
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ansh-jsr/Leetcode-POTD/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/ansh-jsr/Leetcode-POTD/tree/master/3360-stone-removal-game) |
 ## Two Pointers
 |  |
 | ------- |
